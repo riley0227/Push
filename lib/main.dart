@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
           appBar: AppBar(
             title: Text('Push'),
           ),
-          body: ProductManager('Your Boi')),
+          body: ProductManager()),
     );
   }
 }
